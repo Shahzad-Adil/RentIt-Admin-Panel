@@ -1,0 +1,80 @@
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
+<%@taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<title>RentIt</title>
+	<link href="webjars/bootstrap/3.3.6/css/bootstrap.min.css"
+   	 rel="stylesheet"> 	 
+   	 <style>
+   	 
+   	 
+   
+  	 
+ body              
+  { 
+  background:#E3E3E3; 
+  font:400 14px 'Calibri','Arial';
+  padding:20px;
+}
+
+   	table, th, td 
+{
+
+	padding: 10px;
+  border: 3px solid black;
+	border-collapse: collapse;
+} 
+
+caption 
+{
+
+	
+ 	font-size:40px;
+ 	
+ 	font-style:bold;
+ 	
+} 
+th, td {
+  padding: 15px;
+}
+
+
+tr {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    background-color:#B40486;
+  }
+  
+  th
+  {
+  background=#ffffff;;
+  }
+  
+  tr:nth-child(even) {
+  background-color: #eee;
+}
+tr:nth-child(odd) {
+  background-color: #fff;
+}
+th {
+  color: white;
+  background-color: #6E6E6E;
+}
+  
+  
+  li.active
+  {
+  	background-color: #3e3e3e3e;
+  }
+ 	 
+   	 </style>
+   	 
+   	 
+</head>
+
+
+
+

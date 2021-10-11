@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:29 +0500] "GET / HTTP/1.1" 200 6125 http-bio-8080-exec-1 3913
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:30 +0500] "GET /webjars/bootstrap/3.3.6/css/bootstrap.min.css HTTP/1.1" 302 - http-bio-8080-exec-3 236
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:30 +0500] "GET /webjars/bootstrap/3.3.6/js/bootstrap.min.js HTTP/1.1" 302 - http-bio-8080-exec-6 23
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:30 +0500] "GET /webjars/jquery/1.9.1/jquery.min.js HTTP/1.1" 302 - http-bio-8080-exec-4 158
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:31 +0500] "GET /adminlogin HTTP/1.1" 200 4359 http-bio-8080-exec-5 535
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:31 +0500] "GET /adminlogin HTTP/1.1" 200 4359 http-bio-8080-exec-9 4
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:31 +0500] "GET /adminlogin HTTP/1.1" 200 4359 http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:32 +0500] "GET /webjars/bootstrap-datepicker/1.0.1/js/bootstrap-datepicker.js HTTP/1.1" 302 - http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:32 +0500] "GET /adminlogin HTTP/1.1" 200 4359 http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:32 +0500] "GET /webjars/jquery/1.9.1/jquery.min.js HTTP/1.1" 302 - http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:32 +0500] "GET /adminlogin HTTP/1.1" 200 4359 http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:33 +0500] "GET /webjars/bootstrap/3.3.6/js/bootstrap.min.js HTTP/1.1" 302 - http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:35 +0500] "GET /adminlogin HTTP/1.1" 200 4359 http-bio-8080-exec-10 6
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:39 +0500] "GET /favicon.ico HTTP/1.1" 302 - http-bio-8080-exec-2 3
+0:0:0:0:0:0:0:1 - - [11/Oct/2021:14:47:39 +0500] "GET /adminlogin HTTP/1.1" 200 4359 http-bio-8080-exec-2 4

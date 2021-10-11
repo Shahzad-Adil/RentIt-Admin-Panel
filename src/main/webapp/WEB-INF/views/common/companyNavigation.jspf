@@ -1,0 +1,24 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light" style="border-bottom:2px solid black">
+  <div class="container-fluid">
+    <div class="navbar-header">
+		
+			<a href="/" class="navbar navbar-brand ">RentIt</a>
+		</div>
+
+		<ul class="nav navbar-nav">
+				<li ><a href="/companyDisp">Home</a>    </li>
+				<li><a href="/companyCPDisplay">Contact Person</a> </li>
+				<li><a href="/companyVehicleDisplay">Vehicle</a> </li>
+				<li><a href="/feedbackCompanyDisplay">Feedback</a> </li>
+		
+			</ul>
+			
+			<ul class="nav navbar-nav navbar-right">  
+				<li><a href="/returnHome">Logout</a></li>
+			</ul>
+		
+		</div>
+		
+
+
+</nav>
